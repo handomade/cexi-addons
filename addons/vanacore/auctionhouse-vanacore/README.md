@@ -37,7 +37,7 @@ Version **1.0.0Ja**. Later Japanese revisions are **1.0.0Jb**, **1.0.0Jc**, and 
   - The active-window button, from the categories, moves among Compare, In stock, and Usable. Left and right move between them, Confirm turns one on or off, and the active-window button or Cancel returns. From the results it moves among Name, Level, and Stock. Left and right move between them, Confirm flips the order, and the active-window button or Cancel returns. On an item’s bid card it cycles single, stack, watch, history, and the price field. An item that does not stack skips single and stack.
   - The search box is not a D-pad target. Scrolling the sale history does not jump to the categories.
   - The help along the bottom of the window matches these actions. On a Japanese client that help is Japanese. The button pictures follow the game’s pad settings.
-
+  - You can search by entering the product name in the /ah s field.
 ### 日本語
 
 この作業で日本語にしているのは、競売アドオン `addons/vanacore/auctionhouse-vanacore` だけです。cexi-addons の他のアドオンは変更していません。

@@ -1,4 +1,5 @@
 # CatsEyeXI addons
+競売アドオンだけ日本語化をわたしのほうでしました。
 
 The client addons made for the CatsEyeXI server, for Ashita and for VanaCore, each in its own folder laid out the way
 the clients keep them, so a folder copies straight into place.
@@ -7,7 +8,7 @@ the clients keep them, so a folder copies straight into place.
 |---|---|---|---|
 | Party Finder 2.14 | Ashita | [`addons/ashita/partyfinder`](addons/ashita/partyfinder) | LFG/LFM listings, Duty Roulette, Mission Help and Venture parties |
 | Party Finder 2.2 | VanaCore | [`addons/vanacore/partyfinder-vanacore`](addons/vanacore/partyfinder-vanacore) | The same finder rewritten for VanaCore's native API: glass cards, slots, themes, sound packs |
-| Auction House 1.0 | VanaCore | [`addons/vanacore/auctionhouse-vanacore`](addons/vanacore/auctionhouse-vanacore) | The auction house as its own window: stock, sale history and graphs, watch list, selling, sold notices |
+| Auction House 1.0.0Ja | VanaCore | [`addons/vanacore/auctionhouse-vanacore`](addons/vanacore/auctionhouse-vanacore) | The auction house as its own window: stock, sale history and graphs, watch list, selling, sold notices 日本語化済 |
 
 Each folder has its own README with what it does, its commands and how it talks to the server.
 
